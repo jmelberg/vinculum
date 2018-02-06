@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'vinculum_Example' do
+  pod 'Vinculum', :path => '../'
+
+  target 'vinculum_Tests' do
+    inherit! :search_paths
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - Vinculum (0.1.0)
+
+DEPENDENCIES:
+  - Vinculum (from `../`)
+
+EXTERNAL SOURCES:
+  Vinculum:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Vinculum: ab929de6575061bb3ad2a94b4784562c9d79b53d
+
+PODFILE CHECKSUM: 5ace6055ae0911b93fb27f27fe945b574380d396
+
+COCOAPODS: 1.4.0
