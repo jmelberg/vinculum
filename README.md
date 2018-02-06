@@ -1,4 +1,5 @@
 # Vinculum
+[![CI Status](http://img.shields.io/travis/jmelberg/vinculum.svg?style=flat)](https://travis-ci.org/jmelberg/vinculum)
 [![Version](https://img.shields.io/cocoapods/v/vinculum.svg?style=flat)](http://cocoapods.org/pods/vinculum)
 [![License](https://img.shields.io/cocoapods/l/vinculum.svg?style=flat)](http://cocoapods.org/pods/vinculum)
 [![Platform](https://img.shields.io/cocoapods/p/vinculum.svg?style=flat)](http://cocoapods.org/pods/vinculum)
