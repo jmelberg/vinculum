@@ -7,10 +7,10 @@ Pod::Spec.new do |s|
 A simple iOS Keychain manager for secure storage.
                        DESC
 
-  s.homepage         = 'https://github.com/jmelberg-okta/vinculum'
+  s.homepage         = 'https://github.com/jmelberg/vinculum'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jmelberg' => 'jordan.melberg@gmail.com' }
-  s.source           = { :git => 'https://github.com/jmelberg-okta/vinculum.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/jmelberg/vinculum.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '8.0'
 
